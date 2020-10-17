@@ -22,10 +22,10 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
 
 > “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
 
-Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:
+**Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:**
 
 - HTML fundamentals
-- basic knowledge of CSS
+- Basic knowledge of CSS
 
 ### HTML - Hyper Text Markup Language
 
@@ -48,7 +48,7 @@ Before starting, there are some skills you’ll have to know in order to learn a
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-### Bootstrap
+### Bootstrap - Front-end framework
 
 * **Documentation**
   * [Get started with Bootstrap : official website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
@@ -95,8 +95,8 @@ Before starting, there are some skills you’ll have to know in order to learn a
 * https://unsplash.com/
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
 
-**Feel free to add your own resources and create a PR :)**
-
 ## Get Inspired
 
 > "First do it, then do it right, then do it better." ~ Addy Osmani, Software Engineer at Google
+
+**Feel free to add your own resources and create a PR :)**
