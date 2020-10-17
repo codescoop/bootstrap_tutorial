@@ -1,11 +1,14 @@
 # [Begineer] bootstrap-cdn
-A sample project to demo how to use Bootstrap via CDN
+A sample project to demo how to use Bootstrap via CDN by building a landing page website
 
 ## Guides And Resourses
-Feel free to add your own resources and create a PR :)
 
-### Git AND GitHub
-* [Guide for getting started with Git](https://rogerdudler.github.io/git-guide/)
+> “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
+
+Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:
+
+- HTML fundamentals
+- basic knowledge of CSS
 
 ### HTML - Hyper Text Markup Language
 
@@ -13,7 +16,7 @@ Feel free to add your own resources and create a PR :)
   * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
   * [HTML docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-* **Tutorials**
+* **Video Tutorials**
   * [HTML Full Course](https://youtu.be/pQN-pnXPaVg)
   * [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 
@@ -24,9 +27,12 @@ Feel free to add your own resources and create a PR :)
   * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
   * [CSS docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-* **Tutorials**
+* **Video Tutorials**
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
+
+### Git AND GitHub
+* [Guide for getting started with Git](https://rogerdudler.github.io/git-guide/)
 
 ### IDE - Integrated development environment
 
@@ -48,7 +54,7 @@ Feel free to add your own resources and create a PR :)
 * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 #### Online Editors
- * https://codesandbox.io/?from-app=1
+ * https://codesandbox.io/
  * https://codepen.io/
  * https://stackblitz.com/
  * https://repl.it/
@@ -61,3 +67,5 @@ Feel free to add your own resources and create a PR :)
 * https://www.pexels.com/
 * https://unsplash.com/
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
+
+Feel free to add your own resources and create a PR :)
