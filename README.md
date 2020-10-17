@@ -31,27 +31,28 @@ Before starting, there are some skills you’ll have to know in order to learn a
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-### Git AND GitHub
-* [Guide for getting started with Git](https://rogerdudler.github.io/git-guide/)
 
-### IDE - Integrated development environment
+## Other Useful Links
+
+#### Free Learning Resources
+* **Platforms**
+  * [freecodecamp](https://www.freecodecamp.org/)
+  * [sololearn](https://www.sololearn.com/)
+
+* **Youtube Channels**
+  * [net-ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+#### Git AND GitHub
+* [Guide for getting started with Git](https://rogerdudler.github.io/git-guide/)
+* [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+#### IDE - Integrated development environment
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Sublime Text 3](https://www.sublimetext.com/3)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
-
-
-## Other Useful Links
-
- 
-**Platforms** (Free Learning Resources)
-* [freecodecamp](https://www.freecodecamp.org/)
-* [sololearn](https://www.sololearn.com/)
-
-**Youtube Channels**
-* [net-ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 #### Online Editors
  * https://codesandbox.io/
@@ -68,4 +69,4 @@ Before starting, there are some skills you’ll have to know in order to learn a
 * https://unsplash.com/
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
 
-Feel free to add your own resources and create a PR :)
+**Feel free to add your own resources and create a PR :)**
