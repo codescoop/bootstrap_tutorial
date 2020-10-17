@@ -28,7 +28,7 @@ Feel free to add your own resources and create a PR :)
 * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
 * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-### IDE
+### IDE - Integrated development environment
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
