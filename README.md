@@ -5,7 +5,7 @@ A sample project to demo how to use Bootstrap via CDN
 Feel free to add your own resources and create a PR :)
 
 ### Git AND GitHub
-* https://rogerdudler.github.io/git-guide/
+* [Getting started with git](https://rogerdudler.github.io/git-guide/)
 
 ### HTML - Hyper Text Markup Language
 
