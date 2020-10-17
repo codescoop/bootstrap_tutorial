@@ -4,35 +4,36 @@ A sample project to demo how to use Bootstrap via CDN
 ## Guides And Resourses
 Feel free to add your own resources and create a PR :)
 
-> ### Git AND GitHub
+### Git AND GitHub
 * https://rogerdudler.github.io/git-guide/
 
-> ### HTML - Hyper Text Markup Language
+### HTML - Hyper Text Markup Language
 
-#### Documentation
+##### Documentation
 * [w3schools.com](https://www.w3schools.com/html/)
 * [HTML docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-#### Tutorials
+##### Tutorials
 * [HTML Full Course](https://youtu.be/pQN-pnXPaVg)
 * [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 
 
-> ### CSS - Cascading Style Sheets
+### CSS - Cascading Style Sheets
 
-#### Documentation
+##### Documentation
 * [w3schools.com](https://www.w3schools.com/css/)
 * [CSS docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-#### Tutorials
-- [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
-- [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
+##### Tutorials
+* [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
+* [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-> ### IDE
+### IDE
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Sublime Text 3](https://www.sublimetext.com/3)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 
 ## Other Useful Links
