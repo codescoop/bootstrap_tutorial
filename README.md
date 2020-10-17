@@ -1,6 +1,23 @@
 # [Begineer] bootstrap-cdn
 A sample project to demo how to use Bootstrap via CDN by building a landing page website
 
+**This tutorial for beginners will cover the following:**
+- Starting with some HTML : First webpage
+- Understand the basics of linking a CSS document & simple text formatting with CSS
+- Include Bootstrap via CDN
+- Write HTML5 boilerplate
+- Include Bootstrap CSS
+- Include Bootstrap JavaScript
+- Add a navigation bar
+- Add navigation links
+- Add a dropdown
+- Add a search form
+- Add a content container
+- Add a heading
+- Add a table
+- Add form elements to a table
+- Add an alert message
+
 ## Guides And Resourses
 
 > “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
@@ -30,6 +47,15 @@ Before starting, there are some skills you’ll have to know in order to learn a
 * **Video Tutorials**
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
+
+### Bootstrap
+
+* **Documentation**
+  * [Get started with Bootstrap : official website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+  * [Bootstrap Tutorial by w3schools.com](https://www.w3schools.com/bootstrap/)
+
+* **Video Tutorials**
+  * [Bootstrap in One Video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 
 
 ## Other Useful Links
