@@ -5,12 +5,12 @@ A sample project to demo how to use Bootstrap via CDN
 Feel free to add your own resources and create a PR :)
 
 ### Git AND GitHub
-* [Getting started with git](https://rogerdudler.github.io/git-guide/)
+* [Guide for getting started with Git](https://rogerdudler.github.io/git-guide/)
 
 ### HTML - Hyper Text Markup Language
 
 * **Documentation**
-  * [w3schools.com](https://www.w3schools.com/html/)
+  * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
   * [HTML docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 * **Tutorials**
@@ -21,7 +21,7 @@ Feel free to add your own resources and create a PR :)
 ### CSS - Cascading Style Sheets
 
 * **Documentation**
-  * [w3schools.com](https://www.w3schools.com/css/)
+  * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
   * [CSS docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 * **Tutorials**
@@ -38,8 +38,8 @@ Feel free to add your own resources and create a PR :)
 
 ## Other Useful Links
 
-#### Free Learning Resources
-**Platforms**
+ 
+**Platforms** (Free Learning Resources)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [sololearn](https://www.sololearn.com/)
 
