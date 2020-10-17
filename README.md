@@ -48,7 +48,7 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-### Bootstrap - Front-end framework
+### BOOTSTRAP - Front-end framework
 
 * **Documentation**
   * [Get started with Bootstrap : official website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
@@ -95,8 +95,8 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
 * https://unsplash.com/
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
 
+=> **Feel free to add your own resources and create a PR :)**
+
 ## Get Inspired
 
 > "First do it, then do it right, then do it better." ~ Addy Osmani, Software Engineer at Google
-
-**Feel free to add your own resources and create a PR :)**
