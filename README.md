@@ -70,3 +70,7 @@ Before starting, there are some skills you’ll have to know in order to learn a
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
 
 **Feel free to add your own resources and create a PR :)**
+
+## Get Inspired
+
+> "First do it, then do it right, then do it better." ~ Addy Osmani, Software Engineer at Google
