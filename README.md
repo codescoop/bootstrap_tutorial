@@ -1,4 +1,4 @@
-# [Begineer] bootstrap-cdn
+# [Begineer] Bootstrap - StepByStep
 A sample project to demo how to use Bootstrap via CDN by building a landing page website
 
 **This tutorial for beginners will cover the following:**
