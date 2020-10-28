@@ -2,7 +2,7 @@
 A sample project to demo how to use Bootstrap via CDN by building a landing page website
 
 **This tutorial for beginners will cover the following:**
-- Starting with some HTML : First webpage
+- [Starting with some HTML : First webpage](https://github.com/codescoop/bootstrap_tutorial/tree/main/01%20HTML-First_webpage)
 - Understand the basics of linking a CSS document & simple text formatting with CSS
 - Include Bootstrap via CDN
 - Write HTML5 boilerplate
