@@ -2,16 +2,12 @@
 A sample project to demo how to use Bootstrap via CDN by building a landing page website
 
 **This tutorial for beginners will cover the following:**
-- [Starting with some HTML : First webpage [Prerequisite]](https://github.com/codescoop/bootstrap_tutorial/tree/main/01%20HTML-First_webpage)
-- [Understand the basics of linking a CSS document & simple text formatting with CSS [Prerequisite]](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/02%20Adding%20CSS)
-- [Practice - Basic Navigation bar using HTML and CSS [Prerequisite]](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/03%20Basic%20Navigation%20bar%20using%20HTML%20and%20CSS)
-- [Include Bootstrap via CDN](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/03%20Bootstrap%20via%20CDN)
+- [[Prerequisite] Starting with some HTML : First webpage](01%20HTML_first_webpage)
+- [[Prerequisite] Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
+- [[Prerequisite] Practice - Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
+- [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
 - Include Bootstrap CSS
-- Include Bootstrap JavaScript
 - Add a navigation bar
-- Add navigation links
-- Add a dropdown
-- Add a search form
 - Add a content container
 - Add a heading
 - Add a table
@@ -29,43 +25,43 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
 
 ### HTML - Hyper Text Markup Language
 
-* **Documentation**
+* *Documentation*
   * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
   * [HTML docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [HTML Full Course](https://youtu.be/pQN-pnXPaVg)
   * [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 
 
 ### CSS - Cascading Style Sheets
 
-* **Documentation**
+* *Documentation*
   * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
   * [CSS docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
 ### BOOTSTRAP - Front-end framework
 
-* **Documentation**
+* *Documentation*
   * [Get started with Bootstrap : official website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
   * [Bootstrap Tutorial by w3schools.com](https://www.w3schools.com/bootstrap/)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [Bootstrap in One Video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 
 
-## Other Useful Links
+## Additional Useful Links
 
 #### Free Learning Resources
-* **Platforms**
+* *Platforms*
   * [freecodecamp](https://www.freecodecamp.org/)
   * [sololearn](https://www.sololearn.com/)
 
-* **Youtube Channels**
+* *Youtube Channels*
   * [net-ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
   * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
