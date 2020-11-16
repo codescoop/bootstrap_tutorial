@@ -33,10 +33,10 @@ Write the necessary HTML to make your page look just like this one:
 
 ## Additional Resources
 
-* **Documentation**
+* *Documentation*
   * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
   * [HTML docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [HTML Full Course](https://youtu.be/pQN-pnXPaVg)
   * [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
