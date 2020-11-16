@@ -2,16 +2,12 @@
 A sample project to demo how to use Bootstrap via CDN by building a landing page website
 
 **This tutorial for beginners will cover the following:**
-- [Starting with some HTML : First webpage [Prerequisite]](https://github.com/codescoop/bootstrap_tutorial/tree/main/01%20HTML-First_webpage)
-- [Understand the basics of linking a CSS document & simple text formatting with CSS [Prerequisite]](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/02%20Adding%20CSS)
-- [Practice - Basic Navigation bar using HTML and CSS [Prerequisite]](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/03%20Basic%20Navigation%20bar%20using%20HTML%20and%20CSS)
+- [[Prerequisite] Starting with some HTML : First webpage](https://github.com/codescoop/bootstrap_tutorial/tree/main/01%20HTML-First_webpage)
+- [[Prerequisite] Understand the basics of linking a CSS document & simple text formatting with CSS](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/02%20Adding%20CSS)
+- [[Prerequisite] Practice - Basic Navigation bar using HTML and CSS](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/03%20Basic%20Navigation%20bar%20using%20HTML%20and%20CSS)
 - [Include Bootstrap via CDN](https://github.com/yogesh7132/bootstrap_tutorial/tree/main/03%20Bootstrap%20via%20CDN)
 - Include Bootstrap CSS
-- Include Bootstrap JavaScript
 - Add a navigation bar
-- Add navigation links
-- Add a dropdown
-- Add a search form
 - Add a content container
 - Add a heading
 - Add a table
