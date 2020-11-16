@@ -29,43 +29,43 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
 
 ### HTML - Hyper Text Markup Language
 
-* **Documentation**
+* *Documentation*
   * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
   * [HTML docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [HTML Full Course](https://youtu.be/pQN-pnXPaVg)
   * [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 
 
 ### CSS - Cascading Style Sheets
 
-* **Documentation**
+* *Documentation*
   * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
   * [CSS docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
 ### BOOTSTRAP - Front-end framework
 
-* **Documentation**
+* *Documentation*
   * [Get started with Bootstrap : official website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
   * [Bootstrap Tutorial by w3schools.com](https://www.w3schools.com/bootstrap/)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [Bootstrap in One Video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 
 
-## Other Useful Links
+## Additional Useful Links
 
 #### Free Learning Resources
-* **Platforms**
+* *Platforms*
   * [freecodecamp](https://www.freecodecamp.org/)
   * [sololearn](https://www.sololearn.com/)
 
-* **Youtube Channels**
+* *Youtube Channels*
   * [net-ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
   * [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
