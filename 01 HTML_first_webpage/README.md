@@ -1,4 +1,9 @@
-# HTML Example
+## HTML - Hyper Text Markup Language
+
+> “Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.” — Wikipedia
+
+
+**HTML Example**
 
 ```
 <!DOCTYPE html>
@@ -18,34 +23,8 @@
 </html>
 ```
 
-## Basic HTML Tags
+## HTML Basics Exercise
 
-- a
+Write the necessary HTML to make your page look just like this one:
 
-## HTML5 boilerplate
-
-Create new index.html file. Open the file, place the following code and save it.
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-    <title>Bootstrap Example [Beginners] </title>
-  
-    <!-- Bootstrap CSS will be here -->
-</head>
-<body>
-  
-  <h1> This is a Heading </h1>
-  <p> paragraph <p>
-  
-<!-- Bootstrap JavaScript will be here -->
-  
-</body>
-</html>
-```
+<img src="img/output.png" alt="Output">
