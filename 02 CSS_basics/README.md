@@ -21,14 +21,14 @@ Sites to rebuild:
 
 ### Additional Resources
 
-* **Documentation**
+* *Documentation*
   * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
   * [CSS docs by Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-* **Video Tutorials**
+* *Video Tutorials*
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-* **Other Useful Links**
+* *Other Useful Links*
   * [http://learnlayout.com/](http://learnlayout.com/)
   * [http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
