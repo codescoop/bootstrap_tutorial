@@ -4,11 +4,11 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 > **Goal**: To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
 
 **This tutorial for beginners will cover the following:**
-- [[Prerequisite] Starting with some HTML : First webpage](01%20HTML_first_webpage)
-- [[Prerequisite] Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
-- [[Prerequisite] Practice - Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
+- Prerequisite
+  -  [Starting with some HTML : First webpage](01%20HTML_first_webpage)
+  -  [Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
+  -  [Practice - Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
 - [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
-- Include Bootstrap CSS
 - Add a navigation bar
 - Add a content container
 - Add a heading
