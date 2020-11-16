@@ -23,7 +23,7 @@
 </html>
 ```
 
-
+<br>
 ## HTML Basics Exercise
 
 Write the necessary HTML to make your page look just like this one:
