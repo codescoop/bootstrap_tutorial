@@ -1,5 +1,9 @@
-# [Begineer] Bootstrap - StepByStep
-This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session.](https://www.mentorswithoutborders.net/).
+# Bootstrap Tutorial - StepByStep
+This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session](https://www.mentorswithoutborders.net/).
+
+> “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
+
+**Preface**: A sample project to demo how to use Bootstrap via CDN by building a landing page website.
 
 **This tutorial for beginners will cover the following:**
 - [[Prerequisite] Starting with some HTML : First webpage](01%20HTML_first_webpage)
@@ -15,8 +19,6 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 - Add an alert message
 
 ## Guides And Resourses
-
-> “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
 
 **Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:**
 
