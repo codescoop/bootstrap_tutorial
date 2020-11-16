@@ -1,5 +1,5 @@
 # [Begineer] Bootstrap - StepByStep
-A sample project to demo how to use Bootstrap via CDN by building a landing page website
+This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session.](https://www.mentorswithoutborders.net/).
 
 **This tutorial for beginners will cover the following:**
 - [[Prerequisite] Starting with some HTML : First webpage](01%20HTML_first_webpage)
