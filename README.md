@@ -1,20 +1,24 @@
 # Bootstrap Tutorial - StepByStep
 This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session](https://www.mentorswithoutborders.net/).
+<hr>
 
-> **PREFACE**: To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
+ **PREFACE**: To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
 
 **This tutorial for beginners will cover the following:**
 - Prerequisite
   -  [Starting with some HTML : First webpage](01%20HTML_first_webpage)
   -  [Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
   -  [Practice - Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
-- [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
-- Add a navigation bar
-- Add a content container
-- Add a heading
-- Add a table
-- Add form elements to a table
-- Add an alert message
+- Bootstrap
+  - [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
+  - Add a navigation bar
+  - Add a content container
+  - Add a heading
+  - Add a table
+  - Add form elements to a table
+  - Add an alert message
+- Project
+  - Website
 
 ## Guides And Other Resourses
 
