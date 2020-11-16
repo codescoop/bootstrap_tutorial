@@ -12,7 +12,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 - HTML fundamentals
 - Basic knowledge of CSS
 
-### Table of contents
+## Table of contents
 - Prerequisite
   -  [Starting with some HTML : First webpage](01%20HTML_first_webpage)
   -  [Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
