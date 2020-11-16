@@ -1,7 +1,7 @@
 # Bootstrap Tutorial - StepByStep
 This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session](https://www.mentorswithoutborders.net/).
 
-**Goal**: To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
+> **Goal**: To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
 
 **This tutorial for beginners will cover the following:**
 - [[Prerequisite] Starting with some HTML : First webpage](01%20HTML_first_webpage)
