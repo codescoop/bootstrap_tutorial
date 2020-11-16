@@ -1,10 +1,18 @@
 # Bootstrap Tutorial - StepByStep
 This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session](https://www.mentorswithoutborders.net/).
-<hr>
 
- **PREFACE**: To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
+## Introduction
 
-**This tutorial for beginners will cover the following:**
+To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
+
+> “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
+
+*Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:*
+
+- HTML fundamentals
+- Basic knowledge of CSS
+
+### Table of contents
 - Prerequisite
   -  [Starting with some HTML : First webpage](01%20HTML_first_webpage)
   -  [Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
@@ -22,14 +30,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 
 ## Guides And Other Resourses
 
-> “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
-
-**Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:**
-
-- HTML fundamentals
-- Basic knowledge of CSS
-
-### HTML - Hyper Text Markup Language
+#### HTML - Hyper Text Markup Language
 
 * *Documentation*
   * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
@@ -40,7 +41,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
   * [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 
 
-### CSS - Cascading Style Sheets
+#### CSS - Cascading Style Sheets
 
 * *Documentation*
   * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
@@ -50,7 +51,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-### BOOTSTRAP - Front-end framework
+#### BOOTSTRAP - Front-end framework
 
 * *Documentation*
   * [Get started with Bootstrap : official website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
@@ -99,6 +100,6 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 
 => **Feel free to add your own resources and create a PR :)**
 
-## Get Inspired
+## License
 
-> "First do it, then do it right, then do it better." ~ Addy Osmani, Software Engineer at Google
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [GLP-3.0 license](https://github.com/codescoop/bootstrap_tutorial/blob/main/LICENSE).
