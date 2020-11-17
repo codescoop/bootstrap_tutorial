@@ -1,29 +1,36 @@
-# [Begineer] Bootstrap - StepByStep
-A sample project to demo how to use Bootstrap via CDN by building a landing page website
+# Bootstrap Tutorial - StepByStep
+This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session](https://www.mentorswithoutborders.net/).
 
-**This tutorial for beginners will cover the following:**
-- [[Prerequisite] Starting with some HTML : First webpage](01%20HTML_first_webpage)
-- [[Prerequisite] Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
-- [[Prerequisite] Practice - Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
-- [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
-- Include Bootstrap CSS
-- Add a navigation bar
-- Add a content container
-- Add a heading
-- Add a table
-- Add form elements to a table
-- Add an alert message
+## Introduction
 
-## Guides And Resourses
+    To create a perfect bootstrap responsive landing page for your app, business, portfolio or blog.
 
 > “Bootstrap is a free, open-source front-end library for designing websites and web applications. It contains HTML- and CSS-based design templates for everything from typography, forms, buttons, navigation and other interface components as well as JavaScript extensions. Unlike many other web frameworks, Bootstrap concerns itself with front-end development only.” — Wikipedia
 
-**Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:**
+*Before starting, there are some skills you’ll have to know in order to learn and use the Bootstrap framework:*
 
 - HTML fundamentals
 - Basic knowledge of CSS
 
-### HTML - Hyper Text Markup Language
+## Table of contents
+- Prerequisite
+  -  [HTML Basic : First webpage](01%20HTML_first_webpage)
+  -  [CSS Basic : Linking a CSS document & Simple text formatting](02%20CSS_basics)
+  -  [Practice - Layout & Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
+- Bootstrap
+  - [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
+  - Add a navigation bar
+  - Add a content container
+  - Add a heading
+  - Add a table
+  - Add form elements to a table
+  - Add an alert message
+- Project
+  - Website
+
+## Guides And Other Resourses
+
+#### HTML - Hyper Text Markup Language
 
 * *Documentation*
   * [HTML Tutorial by w3schools.com](https://www.w3schools.com/html/)
@@ -34,7 +41,7 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
   * [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
 
 
-### CSS - Cascading Style Sheets
+#### CSS - Cascading Style Sheets
 
 * *Documentation*
   * [CSS Tutorial by w3schools.com](https://www.w3schools.com/css/)
@@ -44,7 +51,7 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
   * [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
   * [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-### BOOTSTRAP - Front-end framework
+#### BOOTSTRAP - Front-end framework
 
 * *Documentation*
   * [Get started with Bootstrap : official website](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
@@ -93,6 +100,6 @@ A sample project to demo how to use Bootstrap via CDN by building a landing page
 
 => **Feel free to add your own resources and create a PR :)**
 
-## Get Inspired
+## License
 
-> "First do it, then do it right, then do it better." ~ Addy Osmani, Software Engineer at Google
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [GLP-3.0 license](https://github.com/codescoop/bootstrap_tutorial/blob/main/LICENSE).
