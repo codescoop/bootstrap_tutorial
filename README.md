@@ -14,9 +14,9 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 
 ## Table of contents
 - Prerequisite
-  -  [Starting with some HTML : First webpage](01%20HTML_first_webpage)
-  -  [Understand the basics of linking a CSS document & simple text formatting with CSS](02%20CSS_basics)
-  -  [Practice - Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
+  -  [HTML Basic : First webpage](01%20HTML_first_webpage)
+  -  [CSS Basic : Linking a CSS document & Simple text formatting](02%20CSS_basics)
+  -  [Practice - Layout & Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
 - Bootstrap
   - [Include Bootstrap via CDN](04%20Bootstrap%20via%20CDN)
   - Add a navigation bar
