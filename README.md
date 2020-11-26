@@ -95,7 +95,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 
 #### Images
 * https://www.pexels.com/
-* https://unsplash.com/
+* http://source.unsplash.com/1300x500
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
 
 => **Feel free to add your own resources and create a PR :)**
