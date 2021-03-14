@@ -20,13 +20,13 @@
 
 <head> 
 <title> MWB Html Session </title>
-<link rel="stylesheet"  href="main.css">
+<link rel="stylesheet"  href="asset/css/main.css">
 
 </head>
 
 <body>
   <!-- Navigation-->
-  <header>
+  <header id="home">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#">Company Name</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -37,25 +37,25 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#about">About</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
-              Dropdown
+              Service
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
+              <a class="dropdown-item" href="#service">Service</a>
+              <a class="dropdown-item" href="#gallery">Gallery</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
+              <a class="dropdown-item" href="#connect">Something else here</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            <a class="nav-link" href="#contact" tabindex="-1" aria-disabled="true">Contact</a>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
@@ -88,7 +88,7 @@
     </a>
   </div>
   <!-- About -->
-  <section>
+  <section  id="about">
     <div class="container pb-5">
       <div class="text-center py-5">
         <h1 class="text-uppercase">about us</h1>
@@ -113,7 +113,7 @@
     </div>
   </section>
   <!-- Service -->
-  <section class="bg-light">
+  <section  id="service" class="bg-light">
     <div class="container py-5">
       <div class="text-center pb-5">
         <h1 class="text-uppercase font-weight-bold pt-5">Services</h1>
@@ -156,8 +156,8 @@
       </div>
     </div>
   </section>
-  <!-- contact -->
-  <section>
+  <!-- connect -->
+  <section  id="connect">
     <article class="bg-primary py-2">
       <div class="container-fluid text-center py-5  text-white">
         <h3 class=" display-4">+91 123456789</h3>
@@ -167,7 +167,7 @@
     </article>
   </section>
   <!-- Gallery -->
-  <section class="bg-light">
+  <section  id="gallery" class="bg-light">
     <div class="container py-5">
       <div class="text-center py-5">
         <h1 class="text-uppercase font-weight-bolder">Gallery</h1>
@@ -208,7 +208,7 @@
     </div>
   </section>
   <!-- contact form -->
-  <section>
+  <section  id="contact">
     <div class="container py-5">
       <div class="text-center py-5">
         <h1 class="text-uppercase font-weight-bolder">Contact Us</h1>
