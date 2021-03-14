@@ -1,9 +1,3 @@
-## Practice - CSS Navigation Bar
-
-To practice working with Navigation bar,make your page look just like this one:
-
-<img src="img/output.png" alt="Output">
-
 ## CSS Layout Exercise
 
 Complete the below challenges to flex your CSS skills, and see where you need to practice more!
