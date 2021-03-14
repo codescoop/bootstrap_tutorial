@@ -24,7 +24,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
     | 1. | Business Website | [Code](04%20Bootstrap/01%20business-website)| [Preview](https://codescoop.github.io/bootstrap_tutorial/index.html)|
     | 2. | Portfolio Website | [Code](04%20Bootstrap/01%20business-website)| [Preview](https://codescoop.github.io/bootstrap_tutorial/index.html)|
 
-
+<br>
 
 
 ## Guides And Other Resourses
@@ -101,6 +101,10 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 * https://www.iconfinder.com/search/?q=error&license=2&price=free
 
 => **Feel free to add your own resources and create a PR :)**
+
+## Mentor
+
+* [Yogesh Yadav](https://github.com/yogesh7132)
 
 ## License
 
