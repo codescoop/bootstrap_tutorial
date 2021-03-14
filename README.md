@@ -61,6 +61,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 * *Video Tutorials*
   * [Bootstrap in One Video](https://www.youtube.com/watch?v=gqOEoUR5RHg)
 
+<br>
 
 ## Additional Useful Links
 
@@ -102,9 +103,12 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 
 => **Feel free to add your own resources and create a PR :)**
 
+<br> 
+
 ## Mentor
 
 * [Yogesh Yadav](https://github.com/yogesh7132)
+
 
 ## License
 
