@@ -1,4 +1,4 @@
-# Bootstrap Tutorial [[View Projects]](https://codescoop.github.io/bootstrap_tutorial/index.html)
+# Bootstrap Tutorial [[Live Preview]](https://codescoop.github.io/bootstrap_tutorial/index.html)
 This repository contains starter files and final code for the Bootstrap Tutorial @ [MWB Training Session](https://www.mentorswithoutborders.net/).
 
 ## Introduction
@@ -17,9 +17,14 @@ This repository contains starter files and final code for the Bootstrap Tutorial
   -  [HTML Basic : First webpage](01%20HTML_first_webpage)
   -  [CSS Basic : Linking a CSS document & Simple text formatting](02%20CSS_basics)
   -  [Practice - Layout & Basic Navigation bar using HTML and CSS](03%20Create_CSS_navigation_bar)
-- Bootstrap
-  - [Business Website](04%20Bootstrap/01%20business-website) -[[live preview]](https://codescoop.github.io/bootstrap_tutorial/index.html) 
-  - [Portfolio Website](04%20Bootstrap/02%20portfolio) -[[live preview]](https://codescoop.github.io/bootstrap_tutorial/assets/project2.html) 
+- Bootstrap   
+
+    | S.No | Project | Source | Live |
+    | --- | --- | --- | --- |
+    | 1. | Business Website | [Code](04%20Bootstrap/01%20business-website)| [Preview](https://codescoop.github.io/bootstrap_tutorial/index.html)|
+    | 2. | Portfolio Website | [Code](04%20Bootstrap/01%20business-website)| [Preview](https://codescoop.github.io/bootstrap_tutorial/index.html)|
+
+
 
 
 ## Guides And Other Resourses
