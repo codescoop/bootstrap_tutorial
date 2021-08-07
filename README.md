@@ -107,7 +107,7 @@ This repository contains starter files and final code for the Bootstrap Tutorial
 
 ## Mentor
 
-* [Yogesh Yadav](https://github.com/yogesh7132)
+* [Yogesh Yadav](https://github.com/deltanode)
 
 
 ## License
